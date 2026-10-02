@@ -1,4 +1,13 @@
-.c-menu {
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section{
+    padding-bottom: 100px;
+}
+
+.c-menu{
     background-color: silver;
     flex-wrap: wrap;
     position: fixed;
