@@ -8,7 +8,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #295B73;
 
-  background-image: url('./src/images/bluesky.jpeg');
+  background-image: url('/images/bluesky.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
